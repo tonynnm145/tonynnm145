@@ -1,10 +1,9 @@
 ## Hi there :wave: I'm Nhat Minh = Software Engineer 🌱 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I'm passionate about Machine Learning and Data Engineering
-- 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
-- :zap: Fun fact: I work in Singapore but travel to Vietnam every two weeks before Covid 😅
-
+- 🔭 I'm passionate about Python Backend Development and Machine Learning
+- 🥅 Favorite Quote: Good times become good memories. Bad times become good lessons.
+- :zap: Fun fact: Can code by day, and beat you at sports, games, books, guitar — or outdrink you at beer🍻
 ## ✨ GitHub Stats   
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FCodexploreRepo&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
