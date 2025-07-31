@@ -27,7 +27,7 @@
 <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 <img alt="Sklearn"  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
@@ -73,11 +73,6 @@
   <!-- Facebook -->
   <a href="https://www.facebook.com/Tonynnm145" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-
-  <!-- Zalo -->
-  <a href="https://zalo.me/0945362308" target="_blank">
-    <img alt="Zalo" src="https://img.shields.io/badge/Zalo-0088FF?style=for-the-badge&logo=zalo&logoColor=white">
   </a>
 
   <!-- Email -->
