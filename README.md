@@ -46,6 +46,7 @@
   <br/>
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor%20IDE-0f172a?style=for-the-badge&logo=cursor&logoColor=white">
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </p>
 
 ### Other Tools I've Used
